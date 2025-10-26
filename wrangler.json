@@ -1,5 +1,5 @@
 {
-  "name": "viber-webhook",
+  "name": "viber-webhook1",
   "main": "worker.js",
   "compatibility_date": "2025-10-26"
 }
